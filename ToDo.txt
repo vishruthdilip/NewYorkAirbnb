@@ -1,0 +1,2 @@
+1. Find the avergae price per night in each neighborhood. 
+2. Plot the number of listings in each neighborhood, and make inferences.
